@@ -5,6 +5,10 @@ within digital social environments (specifically Twitter).
 
 There are a number of files each of which builds on another for specificity and clarity for analysis.
 
+## Data
+	Follow the following link to access the different datasets used in this study:
+	https://drive.google.com/drive/folders/17dSwXWYQTF4cH_NNWWEhx_gWUpMIMnWL?usp=sharing
+
 ## To Do's
 ### As of right now here is what we are working on individually for the project:
 
