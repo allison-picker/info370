@@ -1,15 +1,15 @@
-# INFO 370 Project Data
+# INFO 370 PROJECT
 
 This repository holds the data (specifically the code) related to GoTeam's data science project in relation to political sentiment
 within digital social environments (specifically Twitter).
 
 There are a number of files each of which builds on another for specificity and clarity for analysis.
 
-## Data
+## DATA
 	Go to the following link to access the different datasets used in this study:
 	https://drive.google.com/drive/folders/17dSwXWYQTF4cH_NNWWEhx_gWUpMIMnWL?usp=sharing
 
-## To Do's
+## TO DO'S
 
 #### EVEN
 	(1) Visualualizations of FOLLOWERS, FOLLOWING => pol_accounts file that you cleaned
@@ -29,7 +29,7 @@ There are a number of files each of which builds on another for specificity and 
 	Summary statistics of polarity
 	Code for removing outliers => data =data[~(np.abs(data.distance-data.distance.mean()) > (3*data.distance.std()))] #remove outliers
 
-## Code
+## CODE
 	Once you've uploaded your code add a number to the list below and specify what your code did specifically to which datasets:
 	
 	1.
