@@ -29,4 +29,10 @@ There are a number of files each of which builds on another for specificity and 
 	Summary statistics of polarity
 	Code for removing outliers => data =data[~(np.abs(data.distance-data.distance.mean()) > (3*data.distance.std()))] #remove outliers
 
+## Code
+	Once you've uploaded your code add a number to the list below and specify what your code did specifically to which datasets:
+	
+	1.
+	2.
+	3.
 
