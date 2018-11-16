@@ -5,7 +5,7 @@ within digital social environments (specifically Twitter).
 
 There are a number of files each of which builds on another for specificity and clarity for analysis.
 
-## TO Do's
+## To Do's
 ### As of right now here is what we are working on individually for the project:
 
 #### EVEN
