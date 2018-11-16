@@ -17,6 +17,7 @@ There are a number of files each of which builds on another for specificity and 
 
 #### JAYLEN
 	(1) Linear regression – like we did in lab => early results
+	(2) Create tiers based on follower, following and num_tweets values
 		
 #### NIKI 
 	(1) Turn democrat and republican into zeros and ones and do summary statistics 
