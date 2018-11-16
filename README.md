@@ -10,7 +10,6 @@ There are a number of files each of which builds on another for specificity and 
 	https://drive.google.com/drive/folders/17dSwXWYQTF4cH_NNWWEhx_gWUpMIMnWL?usp=sharing
 
 ## To Do's
-### As of right now here is what we are working on individually for the project:
 
 #### EVEN
 	(1) Visualualizations of FOLLOWERS, FOLLOWING => pol_accounts file that you cleaned
